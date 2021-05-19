@@ -1,4 +1,4 @@
-# stockex
+# A stock exchange platform built with Vue, Tailwind CSS and Firebase
 
 ## Project setup
 ```
